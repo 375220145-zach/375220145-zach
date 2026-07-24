@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/375220145-zach/PM-OS">PM OS</a> ·
-  <a href="https://github.com/375220145-zach/pm-chain-graph-engine">pm-chain</a> ·
-  <a href="https://github.com/375220145-zach/RAG-engine">RAG Engine</a> ·
-  <a href="https://github.com/375220145-zach/creator-daily-loop">Daily Loop</a> ·
-  <a href="https://github.com/375220145-zach/obsidian-agent-dashboard">Agent Dashboard</a>
+  <a href="https://github.com/375220145-zach/PM-OS"><img src="https://img.shields.io/badge/PM%20OS-6366f1?style=for-the-badge&logoColor=white"></a>
+  <a href="https://github.com/375220145-zach/pm-chain-graph-engine"><img src="https://img.shields.io/badge/pm--chain-6366f1?style=for-the-badge"></a>
+  <a href="https://github.com/375220145-zach/RAG-engine"><img src="https://img.shields.io/badge/RAG%20Engine-6366f1?style=for-the-badge"></a>
+  <a href="https://github.com/375220145-zach/creator-daily-loop"><img src="https://img.shields.io/badge/Daily%20Loop-6366f1?style=for-the-badge"></a>
+  <a href="https://github.com/375220145-zach/obsidian-agent-dashboard"><img src="https://img.shields.io/badge/Agent%20Dashboard-6366f1?style=for-the-badge"></a>
 </p>

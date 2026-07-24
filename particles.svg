@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="200" viewBox="0 0 500 200">
-  <defs>
-    <style>
-      @keyframes typeFade {
-        0%,100% { opacity: 0 }
-        20%,80% { opacity: 1 }
-      }
-      .txt { font-family: "Fira Code", "SF Mono", "Cascadia Code", monospace; font-size: 22px; fill: #6366f1; text-anchor: middle; animation: typeFade 2.5s ease-in-out infinite; }
-    </style>
-  </defs>
   <rect width="500" height="200" fill="transparent"/>
 
   <!-- Particles -->
@@ -53,5 +44,8 @@
   </circle>
 
   <!-- Text overlay -->
-  <text x="250" y="112" class="txt">Nice 2 meet u here!</text>
+  <text x="250" y="112" font-family="Fira Code,SF Mono,Cascadia Code,monospace" font-size="22" fill="#6366f1" text-anchor="middle" font-weight="600">
+    Nice 2 meet u here!
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.2;0.8;1" dur="2.5s" repeatCount="indefinite"/>
+  </text>
 </svg>

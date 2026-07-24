@@ -9,3 +9,11 @@
 <p align="center">
   <img src="particles.svg" width="500" alt="Particles">
 </p>
+
+<p align="center">
+  <a href="https://github.com/375220145-zach/PM-OS">PM OS</a> ·
+  <a href="https://github.com/375220145-zach/pm-chain-graph-engine">pm-chain</a> ·
+  <a href="https://github.com/375220145-zach/RAG-engine">RAG Engine</a> ·
+  <a href="https://github.com/375220145-zach/creator-daily-loop">Daily Loop</a> ·
+  <a href="https://github.com/375220145-zach/obsidian-agent-dashboard">Agent Dashboard</a>
+</p>

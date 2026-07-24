@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="typewriter.svg" alt="轮播" width="640">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi,+I'm+Zach+%F0%9F%91%8B;PM+who+builds+AI+workflows;Turning+SOPs+into+pipelines" alt="Typing SVG">
 </p>
 
-### 做了什么
+<!-- 你的自我介绍写在这里 -->
 
-**[PM OS](https://github.com/375220145-zach/PM-OS)** — 自研 IPD 全流程管理工具  
-Next.js · IndexedDB · DeepSeek · 三 Agent 并行管线
+---
 
-### 技能
+### Projects
 
-`AI 工作流落地` `Agent/Pipeline 编排` `业务流程诊断与重构` `IPD 全流程`
+**[PM OS](https://github.com/375220145-zach/PM-OS)** — AI-driven IPD project management dashboard  
+Next.js · IndexedDB · DeepSeek · 3-agent parallel pipeline
 
-### 经历
+<!-- 更多项目写在这里 -->
 
-- **蓝深科技（DONNER）** 项目经理 MT · 2025-2026
-- **FMG 集团（URBAN REVIVO）** 采购 PMO · 2022-2023
-- **USM** 工商管理硕士 · 2023-2025
+---
+
+<!-- 技术栈 / 链接 / 其他 -->
